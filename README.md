@@ -4,6 +4,10 @@ A zsh function that provides a beautiful, interactive way to browse and run npm/
 
 ![Demo](https://img.shields.io/badge/shell-zsh-green) ![License](https://img.shields.io/badge/license-MIT-blue)
 
+<p align="center">
+  <img src="br-demo.gif" alt="br demo" width="600">
+</p>
+
 ## ✨ Features
 
 - 📦 **Monorepo-aware** - Discovers all `package.json` files in your project
