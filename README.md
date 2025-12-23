@@ -19,6 +19,12 @@ A zsh function that provides a beautiful, interactive way to browse and run npm/
 
 ## 📋 Prerequisites
 
+**Platform Support:**
+- ✅ macOS (native)
+- ✅ Linux (native)
+- ✅ Windows (via WSL)
+- ❌ Windows (native) - not supported
+
 Install the required dependencies:
 
 ```bash
@@ -30,6 +36,8 @@ brew install fd jq fzf
 | [fd](https://github.com/sharkdp/fd)    | Fast file finder |
 | [jq](https://github.com/stedolan/jq)   | JSON processor   |
 | [fzf](https://github.com/junegunn/fzf) | Fuzzy finder     |
+
+> **Note:** Windows users should use WSL (Windows Subsystem for Linux) to run this zsh script.
 
 ## 📥 Installation
 
